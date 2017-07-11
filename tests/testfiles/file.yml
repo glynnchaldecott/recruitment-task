@@ -1,0 +1,13 @@
+users:
+  - name: John
+    active: true
+    value: 500
+  - name: Mark
+    active: true
+    value: 250
+  - name: Paul
+    active: false
+    value: 100
+  - name: Ben
+    active: true
+    value: 150
